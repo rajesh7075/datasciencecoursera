@@ -1,2 +1,2 @@
 # datasciencecoursera
-My first repositoey on Datascience
+My first repository on Datascience
